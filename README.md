@@ -24,8 +24,13 @@ export default {
 };
 </script>
 ```
+## Prerequisites
+* vue / nuxt
+* vuetify
+* mdi-icon
+* vuex
 
-## 
+
 
 To use the snackbars in this way:
 
