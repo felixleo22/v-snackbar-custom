@@ -21,7 +21,7 @@ export default {
   },
   methods: {
     exampleSnack () {
-      this.$store.dispatch('snacks/info', 'put your test here')
+      this.$store.dispatch('snacks/info', 'put your text here')
     },
     errorSnack () {
       this.$store.dispatch('snacks/error', 'error button')
