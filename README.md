@@ -18,7 +18,7 @@ export default {
   methods: {
     action () {
       // use like this
-      this.$store.dispatch('snacks/info', 'put your test here')
+      this.$store.dispatch('snacks/info', 'put your text here')
     },
   }
 };
